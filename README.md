@@ -2,5 +2,5 @@
 <br>
 
 ### PROJETO 01 - Valorant:
-
+###### Clique na imagem para acessar o projeto
 [<img src="./projeto-1/src/images/projeto01-readme.png">](./projeto-1/index.html)
