@@ -1,4 +1,4 @@
-## Todos os meus projetos feitos inspirados nos eventos "Semana do Zero ao Programador Contratado" do canal Dev em Dobro no Youtube.
+## Todos os meus projetos feitos inspirados nos eventos "Semana do Zero ao Programador Contratado" do canal [Dev em Dobro](https://www.youtube.com/@DevemDobro) no Youtube.
 <br>
 
 ### PROJETO 01 - Valorant:
