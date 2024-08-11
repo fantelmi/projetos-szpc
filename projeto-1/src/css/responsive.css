@@ -1,0 +1,57 @@
+@media (max-width: 875px) {
+    .button {
+        width: 12px;
+        height: 12px;
+    }
+
+    .info .description {
+        font-size: 1rem;
+    }
+
+    .image {
+        object-position: 70%;
+    }
+
+    footer {
+        font-size: 0.75rem;
+        padding: 8px;
+    }
+}
+
+@media (max-width: 685px) {
+    .content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        min-height: 70vh;
+        gap: 50px;
+        margin: 48px 0;
+    }
+
+    .info {
+        width: 100%;
+    }
+
+    .info h1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .info .description {
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+        line-height: 40px;
+        height: 520px;
+        width: 100%;
+    }
+}
+
+@media (max-width: 410px) {
+    .info .description {
+        line-height: 30px;
+        width: 100%;
+    }
+
+}
