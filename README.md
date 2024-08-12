@@ -1,4 +1,5 @@
 ## Todos os meus projetos feitos inspirados nos eventos "Semana do Zero ao Programador Contratado" do canal [Dev em Dobro](https://www.youtube.com/@DevemDobro) no Youtube.
+#### by Fabiana Antelmi
 <br>
 
 ### PROJETO 01 - Valorant:
